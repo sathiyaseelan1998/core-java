@@ -7,12 +7,19 @@ public class Operators {
 		
 		int m1=900;
 		int m2=1000;
-		System.out.println("======ARITHMATIC OPERATION======");
+		int m3=700;
+		System.out.println("======ARITHMATIC OPERATOR======");
 		System.out.println(m1+m2);
 		System.out.println(m1-m2);
 		System.out.println(m1*m2);
 		System.out.println(m1/m2);
 		System.out.println(m1%m2);
+		
+		System.out.println("===== LOGICAL OPERATOR======");
+		System.out.println(m1<m2 && m2>m3);
+		System.out.println(m1>m2 || m2>m3);
+		System.out.println(m1>m2 || m1<m3);
+
 
 	}
 
