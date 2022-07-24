@@ -12,7 +12,7 @@ public class Operators {
 		System.out.println(m1+m2);
 		System.out.println(m1-m2);
 		System.out.println(m1*m2);
-		System.out.println(m1/m2);
+		System.out.println(m1/m3);
 		System.out.println(m1%m2);
 		
 		System.out.println("===== LOGICAL OPERATOR======");
