@@ -22,7 +22,7 @@ public class Operators {
 		
 		System.out.println("===== ASSIGNMENT OPERATOR======");
 		m1+=35;
-		m2-=2
+		m2-=2;
 		System.out.println(m1);
 		System.out.println(m2);
 		
