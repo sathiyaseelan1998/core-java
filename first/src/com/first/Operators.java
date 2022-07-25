@@ -27,10 +27,17 @@ public class Operators {
 		System.out.println(m2);
 		
 		System.out.println("===== UNARY OPERATOR======");
-
 		System.out.println(++m1);
 		System.out.println(--m2);
+		
+		System.out.println("===== TERNARY OPERATOR======");
+		
+		int m4=(m1>m2)?m1:m2; 
+		System.out.println(m4);
 //>>>>>>> branch 'master' of https://github.com/sathiyaseelan1998/core-java.git
+  		
+		
+		
 		
 		
 	}
