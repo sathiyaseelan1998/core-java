@@ -6,11 +6,7 @@ public class First {
 		// TODO Auto-generated method stub
 		System.out.println("welcome to all");
 		
-		for(int i=1;i<=10;i++)
-		{
-			System.out.println(i);
-
-		}
+	
 
 	}
 
