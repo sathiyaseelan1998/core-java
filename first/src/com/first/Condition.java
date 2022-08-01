@@ -5,6 +5,9 @@ public class Condition {
 	public static void main(String[] args) {
 		
 //<<<<<<< HEAD
+		int a=80;
+		int b=70;
+		int c=40;
 		int mark=23;
 		
 		if(mark>=35)
@@ -43,6 +46,35 @@ public class Condition {
 			System.out.println("fail");
 
 		}
+		System.out.println("========nested if==========");
 		
+		if(a>50)
+		{
+			System.out.println("1st condition true");
+
+			if(b>60)
+			{
+				System.out.println("2nd condition false");
+
+				if(c>50)
+				{
+					System.out.println("all condition true");
+
+				}
+				else
+				{
+					System.out.println("3rd condition false");
+				}
+				
+			}
+			else
+			{
+				System.out.println("2nd condition false");
+			}
+		}
+		else
+		{
+			System.out.println("1st condition false");
+		}
 		}
 }
