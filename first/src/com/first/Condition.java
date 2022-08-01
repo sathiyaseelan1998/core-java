@@ -56,7 +56,7 @@ public class Condition {
 			{
 				System.out.println("2nd condition false");
 
-				if(c>50)
+				if(c>70)
 				{
 					System.out.println("all condition true");
 
