@@ -76,5 +76,21 @@ public class Condition {
 		{
 			System.out.println("1st condition false");
 		}
+		
+		System.out.println("======switch======");
+		
+		int p=2;
+		
+		switch(p) {
+		
+		case 1:System.out.println("one");
+				break;
+		case 2:System.out.println("two");
+				break;
+		default:System.out.println("none");
+		
+		}
+		
+
 		}
 }
