@@ -54,7 +54,7 @@ public class Condition {
 
 			if(b>60)
 			{
-				System.out.println("2nd condition false");
+				System.out.println("2nd condition true");
 
 				if(c>70)
 				{
