@@ -8,7 +8,7 @@ public class ClassAndObject {
 		System.out.println(name);
 	}
 	
-	public static void manin(String arg[]) {
+	public static void main(String arg[]) {
 		
 		
 		ClassAndObject obj=new ClassAndObject();
