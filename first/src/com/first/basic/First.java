@@ -1,4 +1,4 @@
-package com.first;
+package com.first.basic;
 
 public class First {
 
