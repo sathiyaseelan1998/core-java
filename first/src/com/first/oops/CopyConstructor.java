@@ -26,6 +26,8 @@ public class CopyConstructor {
 		
 		CopyConstructor c=new CopyConstructor("virat",32);
 		c.display();
+	      System.out.println("calling copy constructor");
+
 		CopyConstructor copy=new CopyConstructor(c);
 		copy.display();
 
