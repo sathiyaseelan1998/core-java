@@ -18,9 +18,6 @@ public class Scanners {
 		
 		System.out.println(name+"---------"+age);
 
-		
-
-
 
 	}
 
