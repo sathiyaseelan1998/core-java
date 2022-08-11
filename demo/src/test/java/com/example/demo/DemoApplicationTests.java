@@ -11,5 +11,9 @@ class DemoApplicationTests {
 
 System.out.println("check the exception ") ;
 	}
+void test() {
+
+System.out.println("check the test method") ;
+	}
 
 }
