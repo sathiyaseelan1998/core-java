@@ -13,7 +13,7 @@ System.out.println("check the exception ") ;
 	}
 void test() {
 
-System.out.println("check the test method") ;
+System.out.println(" test method") ;
 	}
 
 }
