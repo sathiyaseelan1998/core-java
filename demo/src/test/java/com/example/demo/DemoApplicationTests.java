@@ -9,7 +9,7 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
 
-System.out.println("check the exception and test the method") ;
+System.out.println("check the exception ") ;
 	}
 void test() {
 
