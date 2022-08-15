@@ -11,9 +11,6 @@ class DemoApplicationTests {
 
 System.out.println("check the exception ") ;
 	}
-void test() {
 
-
-	}
 
 }
